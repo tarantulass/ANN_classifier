@@ -1,0 +1,2 @@
+### NN Learners' Space 2023 solutions
+This repository is dedicated to assisting learners by providing a comprehensive understanding of Neural Networks (NN) while promoting independence from high-level libraries like Tensorflow. Instead of relying solely on these libraries, which sometimes obscure fundamental concepts within their sequential modules, this repository aims to elucidate the varying levels of abstraction involved in programming Artificial Neural Networks (ANNs).
