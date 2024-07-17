@@ -1,8 +1,3 @@
-## **Mounting Google Drive**
-
-from google.colab import drive
-drive.mount('/content/drive')
-
 ## **Import the Libraries**
 # Commented out IPython magic to ensure Python compatibility.
 import os
